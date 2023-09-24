@@ -16,7 +16,7 @@ A responsive web application that allows users to search for and explore movies.
 
 ## Demo
 
-[Live Demo](https://your-demo-url.com)
+[Live Demo](https://movie-app-rohith.netlify.app/)
 
 ## Getting Started
 
