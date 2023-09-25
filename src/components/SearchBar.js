@@ -41,7 +41,9 @@ const SearchBar = () => {
 
   return (
     <div>
-      <form action="">
+      <form action="" className="form">
+        <h1>Movie App</h1>
+
         <input
           type="text"
           placeholder="Search"

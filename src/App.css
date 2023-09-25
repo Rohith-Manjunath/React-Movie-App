@@ -89,9 +89,26 @@
   outline: none;
   transition: border-color 0.3s ease-in-out;
   margin: 1rem;
-  margin-left: 5rem;
 }
 
 .search-input:focus {
   border-color: #257b8f;
+}
+
+.form{
+  display: flex;
+align-items: center;
+justify-content: space-around;
+padding: 1rem;
+}
+
+
+@media (320px <= width <=480px){
+  .form h1{
+font-size: 1.5rem;
+  }
+
+  .form input{
+    width: 12rem;
+  }
 }

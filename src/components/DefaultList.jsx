@@ -45,7 +45,7 @@ const DefaultList = () => {
 
             <div className="movie-details">
               <h1 className="movie-title">{movie.title}</h1>
-              <p className="movie-overview">{movie.overview}</p>
+              <p className="movie-overview">Plot : {movie.overview}</p>
               <p className="movie-release-date">
                 Release Date: {movie.release_date}
               </p>
